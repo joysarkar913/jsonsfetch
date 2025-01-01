@@ -1,4 +1,4 @@
-{
+{{
     "text1":"apple",
     "text2":30,
     "img":"https://www.hicksandhicks.com/content/images/products/hicks-and-hicks/orange-glazed-ceramic-apple-sculpture/orange-glazed-ceramic-apple-sculpture_10423-initial.jpg"
@@ -7,4 +7,5 @@
       "img":"https://www.hicksandhicks.com/content/images/products/hicks-and-hicks/orange-glazed-ceramic-apple-sculpture/orange-glazed-ceramic-apple-sculpture_10423-initial.jpg",
     "text1":"apple",
     "text2":30
+}
 }
